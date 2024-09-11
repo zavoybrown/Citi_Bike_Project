@@ -49,7 +49,7 @@ than on other modes of public transport.
 ![Ride Duration YOY by Member Type](https://github.com/zavoybrown/Tableau-Challenge/assets/152356657/6da1b9f1-75c5-4f72-ba41-f67d43987105)
 ![Count of Rides Per Day by Member Type](https://github.com/zavoybrown/Tableau-Challenge/assets/152356657/bcea4680-507d-4e8f-b06d-da7fc7ca4a70)
 
-Lastly we take a look at ride duration and volume by membershipo status. The average ride time for members is down by around 5 minutes YOY, and by around ten minutes for casual riders.
+Lastly we take a look at ride duration and volume by membership status. The average ride time for members is down by around 5 minutes YOY, and by around ten minutes for casual riders.
 This could be due to the expansion of stations into newer markets that were visualized earlier, or by some other phenomenon. These rides were most likely taken when COVID-19
 regulations were still in place to varying degrees, so this vary well might have impacted ride time from a health and safety perspective, or by a social desire to stay closer to home.
 
